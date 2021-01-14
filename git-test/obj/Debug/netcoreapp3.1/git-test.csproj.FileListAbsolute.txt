@@ -1,0 +1,12 @@
+C:\Users\Dawid\Documents\git-test\git-test\bin\Debug\netcoreapp3.1\git-test.exe
+C:\Users\Dawid\Documents\git-test\git-test\bin\Debug\netcoreapp3.1\git-test.deps.json
+C:\Users\Dawid\Documents\git-test\git-test\bin\Debug\netcoreapp3.1\git-test.runtimeconfig.json
+C:\Users\Dawid\Documents\git-test\git-test\bin\Debug\netcoreapp3.1\git-test.runtimeconfig.dev.json
+C:\Users\Dawid\Documents\git-test\git-test\bin\Debug\netcoreapp3.1\git-test.dll
+C:\Users\Dawid\Documents\git-test\git-test\bin\Debug\netcoreapp3.1\git-test.pdb
+C:\Users\Dawid\Documents\git-test\git-test\obj\Debug\netcoreapp3.1\git-test.AssemblyInfoInputs.cache
+C:\Users\Dawid\Documents\git-test\git-test\obj\Debug\netcoreapp3.1\git-test.AssemblyInfo.cs
+C:\Users\Dawid\Documents\git-test\git-test\obj\Debug\netcoreapp3.1\git-test.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Documents\git-test\git-test\obj\Debug\netcoreapp3.1\git-test.dll
+C:\Users\Dawid\Documents\git-test\git-test\obj\Debug\netcoreapp3.1\git-test.pdb
+C:\Users\Dawid\Documents\git-test\git-test\obj\Debug\netcoreapp3.1\git-test.genruntimeconfig.cache
