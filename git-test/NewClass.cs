@@ -12,7 +12,7 @@ namespace git_test
         }
 
         private string SetCountry(){
-            return USA;
+            return "USA";
         }
     }
 }
