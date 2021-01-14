@@ -8,7 +8,11 @@ namespace git_test
     {
         public void PrintHello()
         {
-            Console.WriteLine("Hello word");
+            Console.WriteLine($"Hello {SetCountry()}}");
+        }
+
+        private string SetCountry(){
+            return USA;
         }
     }
 }
